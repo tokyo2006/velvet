@@ -21,13 +21,13 @@ This keyboard [was made](https://www.youtube.com/watch?v=800tXbrIh_E) with FDM p
 - USB-C connection between halves
 - Easily remap any key and customize your keyboard with [Vial](https://eh.industries/vial)
 
+![Velvet v3](images/04.png)
+
 ### Velvet v3 – Wireless Edition
 - Powered by nRF52840 and RMK/ZMK firmware
 - Bluetooth connectivity for up to 6 devices
-- Rechargeable 120 mAh battery
+- Rechargeable 200 mAh battery
 - USB-C connection
-
-![Velvet v3](images/04.png)
 
 ## This repo contains all files related to this keyboard
 PCB and schematic can be found [here](https://oshwlab.com/yuriiq/velvet_v3)
