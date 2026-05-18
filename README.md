@@ -15,21 +15,17 @@ This keyboard [was made](https://www.youtube.com/watch?v=800tXbrIh_E) with FDM p
 - Ergonomic 3D design
 - 46 fully programmable keys, 15 additional layers for all your tasks
 - Hot-swappable PCB
-- Type-C connection between halves
-- Easy remapping with [Vial](https://eh.industries/vial)
 
 ### Velvet v3
-- Powered by RP2040 Zero and QMK firmware
-- Built for FDM printing and easy assembly
-- [Firmware](https://github.com/ergohaven/keymap_hub) is constantly updated, so you can get the latest QMK features
-- Wired setup with Type-C connection between halves
+- Powered by RP2040 and QMK firmware
+- USB-C connection between halves
+- Easily remap any key and customize your keyboard with [Vial](https://eh.industries/vial)
 
 ### Velvet v3 – Wireless Edition
-- Bluetooth connectivity with cable fallback
-- Up to 6 paired devices
-- ARM Cortex-M4 controller
-- Rechargeable 200 mAh battery
-- [ZMK](https://zmk.dev/) firmware with [zmk-studio](https://zmk.studio/) and [keymap editor](https://nickcoutsos.github.io/keymap-editor/)
+- Powered by nRF52840 and RMK/ZMK firmware
+- Bluetooth connectivity for up to 6 devices
+- 120 mAh battery with up to 3 weeks of use
+- USB-C connection
 
 ![Velvet v3](images/04.png)
 
